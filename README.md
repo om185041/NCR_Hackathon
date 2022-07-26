@@ -5,6 +5,7 @@
 ### Team Members
 - Brenda Cano
 - Ode Miller
+- Judea Britt
 
 # TODO: Project Name (currently it is RewardsApp)
 
