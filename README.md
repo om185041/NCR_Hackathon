@@ -1,28 +1,30 @@
 # NCR_Hackathon
 
-## TODO: Team name and logo
+## TODO: Team name
+<<TEAM NAME>> are a 5-person team dedicated to developing their skills through the participating of hackathons. As university new-hires, they hope to add value to NCR and making a lasting impact.
 
 ### Team Members
 - Brenda Cano
 - Ode Miller
 - Judea Britt
 
-# TODO: Project Name (currently it is RewardsApp)
+# NCRewards
+<img src="https://drive.google.com/uc?export=view&id=1thzKxK2VC4bDiQjaawo043bQs6ZtH9g6" width="200" height="200">
+NCRewards is a proposed addon to the existing Freshop app that gamifies the in-store experience for visiting customers. It gamifies the experience by hosting various challenges that the customer can participate in and receive points that can be redeemed for discounts and counted towards a tier system. The challenges hosted in the app will be inputted by the store managers, giving them the option to create a challenge that will help sell overstock of that week. 
 
 ## TODO: Video Submission
 
-## TODO: What is RewardsApp?
+## Problem
+Retail stores are having trouble maintaining customer retention.
 
-## TODO: Why RewardsApp?
+## Solution
+NCRewards will gamify the in-store experience in order to incentivize customers to visit the store more frequently. 
 
-## TODO: Challenges We Faced
+## Value
+Increase in-store visits, improve the customer experience, better orchestrate demand marketing.  
 
-## TODO: Accomplishments
-
-## TODO: What's Next for RewardsApp?
-
-## TODO: Built With
-React Native, react, javascript
+## Technology Used
+Figna, React Native
 
 ## How to Setup for coders
 This [Youtube video](https://youtu.be/0-S5a0eXPoc) helps a lot with the environment setup and explaining some of the code used in react.
@@ -70,6 +72,7 @@ ________________________________________________________
   - npm start *(you can open iOS, Android, or web from here, or run them directly with the commands below)* 
   - npm run android 
   - npm run ios *(requires an iOS device or macOS for access to an iOS simulator)*
-  - npm run web *(opens up local host) *
+  - npm run web *(opens up local host)*
+- Note: IF DOESN"T WORK, RUN **npm install** TO INSTALL ALL DEPENDENCIES
 - Note: I added “ExampleScreen!” from RewardsApp/app/screens/ExampleScreen.tsx to see how it would call it. I am trying to keep everything organized. We can add whatever folders we need to the **app** folder. 
 ________________________________________________________
